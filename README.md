@@ -1,2 +1,2 @@
 # oracle
-Tutorials related to Oracle Cloud
+Tutorials related to Oracle Cloud Infrastructure.
